@@ -10,15 +10,11 @@
 ---
 
 
-
-
-
 ## About me 👷
 
 - 🔭 I am a student of Computer Engineering
 - 💬 Passionate about Technology
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennysonc/)
-
 
 <br />
 
@@ -56,3 +52,15 @@ Here are some ideas to get you started:
 
 ---
 
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lrennysonc/count.svg" />
+</p>
+
+<!-- can't stop myself from editing🤷... -->
+
+<br />
+
+---
