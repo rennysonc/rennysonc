@@ -16,6 +16,10 @@
 <br/>
 
 
+<br />
+
+---
+
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=radical)
 
 <!--
