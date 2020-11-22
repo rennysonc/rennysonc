@@ -1,11 +1,15 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
+
 ### Hi there 👋 , I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
-<br />
 
----
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+
 
 ## About me 👷
 
@@ -13,10 +17,6 @@
 - 💬 Passionate about Technology
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennysonc/)
 
-
-  <br />
-
----
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
 [<a href="https://github.com/Neel2904">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
