@@ -22,7 +22,7 @@ My name is Rennyson, I am a student of the Computer Engineering course - IFPB, C
 ---
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc)](https://github.com/rennysonc/github-readme-stats) 
 
 <!--
 **rennysonc/rennysonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
