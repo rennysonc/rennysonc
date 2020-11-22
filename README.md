@@ -8,7 +8,7 @@
 ## About me 👷
 - 🔭 I am a student of Computer Engineering
 - 💬 Passionate about Technology
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennyson/)
+- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennysonc/)
 
 
   <br />
