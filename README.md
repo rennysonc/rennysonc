@@ -18,11 +18,14 @@
 <p>
 My name is Rennyson, I am a student of the Computer Engineering course - IFPB, Campus Campina Grande 🚀.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <br />
 
+---
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&layout=monokai)](https://github.com/rennysonc/github-readme-stats)
+[<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&theme=monokai&hide=glsl,python" />
+</a>
 
 <!--
 **rennysonc/rennysonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
