@@ -17,6 +17,9 @@
 - 💬 Passionate about Technology
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennysonc/)
 
+<br />
+
+---
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
 [<a href="https://github.com/Neel2904">
