@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Statics:
+## Statistics 📊
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
 <a href="https://github.com/Neel2904">
