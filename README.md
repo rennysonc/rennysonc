@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
+<br />
 
 ## Statistics 📊
 
