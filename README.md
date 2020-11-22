@@ -17,9 +17,9 @@
 
 <p>
 My name is Rennyson, I am a student of the Computer Engineering course - IFPB, Campus Campina Grande 🚀.
-<br />
 
----
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&layout=monokai)](https://github.com/rennysonc/github-readme-stats)
