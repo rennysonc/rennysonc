@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>, I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
+### Hi there 👋 , I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
 
 
