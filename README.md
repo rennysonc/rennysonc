@@ -4,8 +4,7 @@
 
 ### Hi there 👋 , I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
-
-  <img align="right" alt="GIF" src="https://miro.medium.com/max/500/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/500/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" />
 
 
 ## About me 👷
@@ -14,7 +13,7 @@
 - 💬 Passionate about Technology
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennysonc/)
 
-
+## Statics:
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
 <a href="https://github.com/Neel2904">
