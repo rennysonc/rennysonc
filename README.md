@@ -3,25 +3,7 @@
 
 ### Hi there 👋, I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
-<br/>
-
-<a href="https://www.linkedin.com/in/rennysonc/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="mailto:rennyson93@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-<br/>
-
-  <br />
-
----
-
+## Sobre mim:
 - 🔭 I am a student of Computer Engineering
 - 💬 Passionate about Technology
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennyson/)
