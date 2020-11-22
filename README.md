@@ -1,3 +1,6 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+
 ### Hi there 👋, I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
 <br/>
