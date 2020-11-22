@@ -5,10 +5,6 @@
 ### Hi there 👋 , I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
 
-<br />
-
----
-
 
 ## About me 👷
 
