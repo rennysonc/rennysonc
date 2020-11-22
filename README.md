@@ -8,10 +8,6 @@ My Name is Rennyson and i am a student of the Computer Engineering course 💻
 
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=radical)
-<br />
-
----
-
 
 <!--
 **rennysonc/rennysonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
