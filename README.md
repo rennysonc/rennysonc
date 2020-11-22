@@ -18,8 +18,14 @@
 <br />
 <br/>
 
-<p>
-My name is Rennyson, I am a student of the Computer Engineering course - IFPB, Campus Campina Grande 🚀.
+  <br />
+
+---
+
+- 🔭 I am a student of Computer Engineering
+- 💬 Passionate about Technology
+- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/rennyson/)
+
 
   <br />
 
