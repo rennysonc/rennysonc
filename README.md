@@ -1,10 +1,5 @@
-### Welcome 👋
-<br />
+### Hi there 👋, I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
 
----
-
-My Name is Rennyson and i am a student of the Computer Engineering course 💻
-<br />
 
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=radical)
