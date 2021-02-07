@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" />
 <br />
-
+<img height="26" alt="Jupyter" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png">
 ---
 
 ## Statistics 📊
