@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Neel2904">
   
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&theme=monokai&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&theme=monokai&hide=glsl" />
 </a>
 
 <br />
