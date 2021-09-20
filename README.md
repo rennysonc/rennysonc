@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## Statistics 📊
 
 ![Rennyson C's github stats](https://github-readme-stats.vercel.app/api?username=rennysonc&show_icons=true&theme=monokai)
-<a href="https://github.com/Neel2904">
+<a href="https://github.com/rennysonc">
   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennysonc&theme=monokai&hide=glsl" />
