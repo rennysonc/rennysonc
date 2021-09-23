@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/rennysonc) 
 <br />
-<img height="26" alt="Jupyter" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png">
 ---
 
 ## Statistics 📊
