@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/rennysonc) 
 <br />
 <img height="26" alt="Jupyter" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png">
 ---
