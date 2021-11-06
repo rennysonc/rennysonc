@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/rennysonc) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 <br />
 ---
 
