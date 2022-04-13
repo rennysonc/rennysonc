@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/rennysonc) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 <br />
 ---
 
