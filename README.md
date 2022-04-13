@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋 , I'm [Rennyson](https://github.com/rennysonc) 👨‍💻
+### Hi there 👋 , I'm [Rennyson](https://www.linkedin.com/in/rennysonc/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/500/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" />
 
